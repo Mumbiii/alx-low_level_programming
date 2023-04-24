@@ -2,8 +2,8 @@
 
 /**
  * main - entry point
- * description: prints reverse alphabet with putchar
- * return: always 0(success)
+ * Description: prints reverse alphabet with putchar
+ * Return: always 0(success)
  */
 
 int main(void)
