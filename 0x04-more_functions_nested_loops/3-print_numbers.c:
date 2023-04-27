@@ -1,0 +1,4 @@
+
+#!sbin/bashr(i + '0');
+      |   ^~~~~~~~
+      |   putcharecho "ALX
