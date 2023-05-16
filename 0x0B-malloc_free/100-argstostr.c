@@ -26,7 +26,7 @@ char *argstostr(int ac, char **av)
 	for (i = 0; i < ac; i++)
 		total_length += strlen(av[i]);
 
-	total_length += ac - 1;
+	total_length += ac;
 
 	result = (char *)malloc((total_length + 1) * sizeof(char));
 
