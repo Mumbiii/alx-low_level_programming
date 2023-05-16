@@ -73,7 +73,6 @@ char **strtow(char *str)
 				return (NULL);
 			}
 			strncpy(words[word_index], &str[i], word_length);
-
 			words[word_index][word_length] = '\0';
 			word_index++;
 
