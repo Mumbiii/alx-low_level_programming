@@ -1,6 +1,8 @@
 #ifndef LISTS_H
 #define LISTS_H
-
+#include <stddef.h>
+#include <stdlib.h>
+#include <stdio.h>
 /**
  * struct listint_s - Singly linked list node
  * @n: Integer data stored in the node
